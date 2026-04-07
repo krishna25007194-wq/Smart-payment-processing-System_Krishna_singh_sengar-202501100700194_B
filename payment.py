@@ -1,3 +1,4 @@
+#Krishna singh sengar - 202501100700194 ECE -b
 from abc import ABC, abstractmethod
 
 # 1. Abstraction: Creating an abstract base class
